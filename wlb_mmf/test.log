@@ -1,0 +1,265 @@
+2022-09-28 11:23:34,285 transform_wuliao.py get_all_template_data [line:63] INFO 从模板文件中获取字段。。。。
+2022-09-28 11:23:34,297 transform_wuliao.py get_all_xlsx [line:70] INFO 扫描当前目录下所有.xlsx文件。。。
+2022-09-28 11:23:34,300 transform_wuliao.py get_all_xlsx [line:78] INFO 共找到以下【14】个xlsx文件：
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22004 Grob长城DHT壳体试漏测量机一期\T22004-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22005 Grob长城DHT壳体试漏测量机二期\T22005-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22006 Grob长城DHT壳体试漏测量机三期\T22006-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22009 长城9AT装配二线测量机(暂停）\T22009物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx
+2022-09-28 11:23:34,300 transform_wuliao.py get_all_xlsx [line:80] INFO ****************************************************************************************************
+2022-09-28 11:23:34,305 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx】
+2022-09-28 11:23:36,127 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:23:36,127 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:23:36,128 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:23:36,131 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:23:36,131 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:23:36,131 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:23:36,132 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:23:36,132 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:23:36,132 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx】，sheet:【Sheet2】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:23:36,132 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx】
+2022-09-28 11:23:41,715 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:23:41,716 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:23:41,716 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:23:41,846 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:23:41,936 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:23:41,937 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:23:41,937 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:23:41,937 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx】
+2022-09-28 11:23:45,685 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:23:45,686 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:23:45,686 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:23:54,300 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:23:56,866 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:23:56,867 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:23:56,867 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:23:56,867 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx】
+2022-09-28 11:23:59,718 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:23:59,718 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:23:59,719 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:23:59,814 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:23:59,815 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:00,279 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:00,279 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:00,280 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:24:00,280 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx】，sheet:【Sheet2】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:00,280 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx】
+2022-09-28 11:24:03,306 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:03,474 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:03,476 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【23KL000002】
+2022-09-28 11:24:03,476 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx】，sheet:【23KL000002】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:03,477 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:03,477 transform_wuliao.py cal_xlsx_data [line:115] INFO 文件：【\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx】，sheet:【Sheet1】，空表，默认忽略该sheet页
+2022-09-28 11:24:03,477 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx】
+2022-09-28 11:24:08,031 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:08,031 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:08,032 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:08,032 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx】，sheet:【MASTER】，默认忽略该sheet页
+2022-09-28 11:24:08,032 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:08,032 transform_wuliao.py cal_xlsx_data [line:115] INFO 文件：【\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx】，sheet:【Sheet1】，空表，默认忽略该sheet页
+2022-09-28 11:24:08,032 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】
+2022-09-28 11:24:10,391 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:10,391 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:10,391 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:10,439 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:10,442 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:10,442 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711019040快换盘】
+2022-09-28 11:24:10,442 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711019040快换盘】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,443 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【导管座圈压机】
+2022-09-28 11:24:10,443 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【导管座圈压机】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,443 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091030搬运机器人】
+2022-09-28 11:24:10,444 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711091030搬运机器人】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,444 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091040搬运机器人】
+2022-09-28 11:24:10,444 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711091040搬运机器人】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,444 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710667040乐泰涂胶系统】
+2022-09-28 11:24:10,445 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7710667040乐泰涂胶系统】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,445 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710667030读码器】
+2022-09-28 11:24:10,445 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7710667030读码器】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,445 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710493010读码器】
+2022-09-28 11:24:10,446 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7710493010读码器】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,446 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091100读码器】
+2022-09-28 11:24:10,446 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711091100读码器】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,446 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091010压机】
+2022-09-28 11:24:10,446 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711091010压机】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,447 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091020压机】
+2022-09-28 11:24:10,447 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【7711091020压机】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:10,455 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:10,455 transform_wuliao.py cal_xlsx_data [line:115] INFO 文件：【\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】，sheet:【Sheet1】，空表，默认忽略该sheet页
+2022-09-28 11:24:10,455 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx】
+2022-09-28 11:24:11,419 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:11,419 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:11,419 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:24:11,420 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx】，sheet:【Sheet2】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:11,421 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22004 Grob长城DHT壳体试漏测量机一期\T22004-物料信息表.xlsx】
+2022-09-28 11:24:12,974 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:12,975 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22004 Grob长城DHT壳体试漏测量机一期\T22004-物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:12,975 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:13,022 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:13,023 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:13,023 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22005 Grob长城DHT壳体试漏测量机二期\T22005-物料信息表.xlsx】
+2022-09-28 11:24:14,003 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:14,004 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22005 Grob长城DHT壳体试漏测量机二期\T22005-物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:14,004 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:15,001 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:16,107 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:16,107 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22006 Grob长城DHT壳体试漏测量机三期\T22006-物料信息表.xlsx】
+2022-09-28 11:24:16,459 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:16,459 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22006 Grob长城DHT壳体试漏测量机三期\T22006-物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:16,459 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:17,714 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:27,065 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:27,065 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx】
+2022-09-28 11:24:30,588 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:30,588 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:30,588 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:30,591 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx】，sheet:【Sheet1】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx】，sheet:【Sheet2】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:30,593 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22009 长城9AT装配二线测量机(暂停）\T22009物料信息表.xlsx】
+2022-09-28 11:24:31,472 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:31,473 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22009 长城9AT装配二线测量机(暂停）\T22009物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:31,473 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:36,126 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:55,994 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:55,994 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】
+2022-09-28 11:24:58,046 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:24:58,046 transform_wuliao.py cal_xlsx_data [line:121] INFO 文件：【\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】，sheet:【机加件】，默认忽略该sheet页
+2022-09-28 11:24:58,046 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:24:58,048 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:24:58,049 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711163001 阿特拉斯拧紧枪配置清单】
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】，sheet:【7711163001 阿特拉斯拧紧枪配置清单】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711163001 阿特拉斯拧紧枪配置清单-1】
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:115] INFO 文件：【\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】，sheet:【7711163001 阿特拉斯拧紧枪配置清单-1】，空表，默认忽略该sheet页
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【宝宜威伺服压机】
+2022-09-28 11:24:58,050 transform_wuliao.py cal_xlsx_data [line:127] INFO 文件：【\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】，sheet:【宝宜威伺服压机】，该表不存在【入库日期】和【物料状态】列，默认忽略该sheet页
+2022-09-28 11:24:58,051 transform_wuliao.py write_to_excel [line:102] INFO 完成填写，即将退出程序。。。
+2022-09-28 11:25:17,037 transform_wuliao.py get_all_template_data [line:63] INFO 从模板文件中获取字段。。。。
+2022-09-28 11:25:17,048 transform_wuliao.py get_all_xlsx [line:70] INFO 扫描当前目录下所有.xlsx文件。。。
+2022-09-28 11:25:17,050 transform_wuliao.py get_all_xlsx [line:78] INFO 共找到以下【14】个xlsx文件：
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22004 Grob长城DHT壳体试漏测量机一期\T22004-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22005 Grob长城DHT壳体试漏测量机二期\T22005-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22006 Grob长城DHT壳体试漏测量机三期\T22006-物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22009 长城9AT装配二线测量机(暂停）\T22009物料信息表.xlsx
+D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx
+2022-09-28 11:25:17,050 transform_wuliao.py get_all_xlsx [line:80] INFO ****************************************************************************************************
+2022-09-28 11:25:17,055 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21043 重庆长安NE1三期泄漏检测机项目\T21043物料信息表.xlsx】
+2022-09-28 11:25:18,865 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:18,865 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:18,868 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:18,869 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:18,869 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:18,869 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:25:18,869 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\最新T21046物料信息表.xlsx】
+2022-09-28 11:25:24,496 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:24,496 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:24,627 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:24,719 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:24,719 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:24,720 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21046长城EZ二期辅机线\新建文件夹\T21046物料信息表-1.xlsx】
+2022-09-28 11:25:28,500 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:28,500 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:36,782 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:38,639 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:38,639 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:38,639 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T21049 豪森潍柴气缸盖项目\T21049物料信息表.xlsx】
+2022-09-28 11:25:41,555 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:41,555 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:41,653 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:41,655 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:42,116 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:42,116 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:25:42,116 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表 - --采购件.xlsx】
+2022-09-28 11:25:45,114 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:45,289 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:45,291 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【23KL000002】
+2022-09-28 11:25:45,291 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:45,292 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22001 柯马_长城DHT 456线装配线选垫测量机\T22001物料信息表----机加件.xlsx】
+2022-09-28 11:25:49,846 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:49,846 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:49,846 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:49,846 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22002 长城上饶EB辅机线压装机\T22002-物料信息表.xlsx】
+2022-09-28 11:25:52,195 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:52,195 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:52,242 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711019040快换盘】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【导管座圈压机】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091030搬运机器人】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091040搬运机器人】
+2022-09-28 11:25:52,243 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710667040乐泰涂胶系统】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710667030读码器】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7710493010读码器】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091100读码器】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091010压机】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711091020压机】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:52,244 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22003 奇瑞导管座圈压装机\T22003物料信息表.xlsx】
+2022-09-28 11:25:53,185 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:53,185 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:53,186 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:53,186 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:53,187 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:25:53,187 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:25:53,187 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22004 Grob长城DHT壳体试漏测量机一期\T22004-物料信息表.xlsx】
+2022-09-28 11:25:54,735 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:54,735 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:54,783 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:54,783 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:54,783 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22005 Grob长城DHT壳体试漏测量机二期\T22005-物料信息表.xlsx】
+2022-09-28 11:25:55,775 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:55,775 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:56,756 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:25:57,864 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:25:57,865 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22006 Grob长城DHT壳体试漏测量机三期\T22006-物料信息表.xlsx】
+2022-09-28 11:25:58,228 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:25:58,229 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:25:59,505 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:26:08,931 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:26:08,931 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22007奇瑞四代机缸盖线辅机\T22007物料信息表11.xlsx】
+2022-09-28 11:26:12,499 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:26:12,499 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:26:12,502 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:26:12,503 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:26:12,503 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet1】
+2022-09-28 11:26:12,503 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【Sheet2】
+2022-09-28 11:26:12,504 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22009 长城9AT装配二线测量机(暂停）\T22009物料信息表.xlsx】
+2022-09-28 11:26:13,345 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:26:13,346 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:26:18,201 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:26:38,959 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:26:38,959 transform_wuliao.py cal_xlsx_data [line:107] INFO 打开文件：【D:\BaiduNetdiskDownload\pythonStudy\wlb_mmf\物料表\T22011 豪森_汇想DHT测量机\T22011-物料信息表.xlsx】
+2022-09-28 11:26:41,003 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【机加件】
+2022-09-28 11:26:41,003 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【采购件】
+2022-09-28 11:26:41,005 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【电气件（软件）】
+2022-09-28 11:26:41,006 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【MASTER】
+2022-09-28 11:26:41,007 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711163001 阿特拉斯拧紧枪配置清单】
+2022-09-28 11:26:41,007 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【7711163001 阿特拉斯拧紧枪配置清单-1】
+2022-09-28 11:26:41,007 transform_wuliao.py cal_xlsx_data [line:111] INFO 打开sheet页【宝宜威伺服压机】
+2022-09-28 11:26:41,007 transform_wuliao.py write_to_excel [line:102] INFO 完成填写，即将退出程序。。。
